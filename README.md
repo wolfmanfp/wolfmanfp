@@ -6,4 +6,4 @@
 <a href="https://www.last.fm/user/wolfmanFP"><img src="https://img.shields.io/badge/Last.fm-d51007?style=flat&logo=last.fm&labelColor=d51007"/></a>
 <a href="https://developers.google.com/profile/u/wolfmanFP"><img src="https://img.shields.io/badge/Google Dev Profile-ffffff?style=flat&logo=google&labelColor=ffffff"/></a>
 
-I'm a software developer based in Pécs, Hungary, working at [Webstar Csoport](https://webstar.hu/).
+I'm a software developer based in Pécs, Hungary.
